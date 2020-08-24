@@ -8,10 +8,10 @@
 # Topography Narrations Unity Plugin
 A plugin to simplify the integration of json data file into Unity project.
 
-## Installation and Quick Start
+<!--## Installation and Quick Start-->
 
 
-## Changelog
+<!--//## Changelog-->
 
 
 ## Need Help?
