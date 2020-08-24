@@ -6,7 +6,7 @@
 </p>
 
 # Topography Narrations Unity Plugin
-A plugin to simplify the integration of json data and load media type files into Unity project.
+A plugin to simplify the integration of json data and load digital file types into Unity project.
 
 <!--## Installation and Quick Start-->
 
