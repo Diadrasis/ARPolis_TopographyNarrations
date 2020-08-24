@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARPolis", "ARPolis\ARPolis.csproj", "{570FD65E-8138-454F-98EA-5A88CC718C1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{570FD65E-8138-454F-98EA-5A88CC718C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570FD65E-8138-454F-98EA-5A88CC718C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570FD65E-8138-454F-98EA-5A88CC718C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570FD65E-8138-454F-98EA-5A88CC718C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ADC82F9-AC5E-4AC2-9896-00A91D6D53C7}
+	EndGlobalSection
+EndGlobal
