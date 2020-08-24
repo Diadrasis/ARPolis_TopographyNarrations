@@ -9,7 +9,7 @@
 A plugin to simplify the integration of json data and load digital file types into Unity project.
 
 ## Installation and Quick Start
-Import Plugin folder into Assets folder. Alternative import latest unitypackage from [releases](https://github.com/Diadrasis/ARPolis_TopographyNarrations/releases) page
+Import Plugin folder with all scripts into Assets folder. Alternative import latest unitypackage from [releases](https://github.com/Diadrasis/ARPolis_TopographyNarrations/releases) page
 Read the example script [ExampleCases.cs] for instructions.
 
 <!--//## Changelog-->
