@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://arpolis.gr/" target="_blank" align="center">
-    <img src="https://arpolis.gr/wp-content/uploads/2019/10/arpolis_front6.png" width="280">
+    <img src="https://arpolis.gr/wp-content/uploads/2019/10/arpolis_logo_new.png" width="280">
   </a>
   <br />
 </p>
