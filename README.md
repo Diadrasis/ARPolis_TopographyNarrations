@@ -18,4 +18,4 @@ A plugin to simplify integrating json data and loading digital file types into U
 
 
 ## Need Help?
-If you have any problems or issues, submit a request on [Diadrasis Support](https://www.diadrasis.gr/).
+If you have any problems or issues, submit a request on [Diadrasis Support](https://www.diadrasis.gr/contact/).
