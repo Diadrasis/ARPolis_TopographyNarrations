@@ -20,7 +20,7 @@ A plugin to simplify integrating json data and loading digital file types into U
 ## Need Help?
 If you have any problems or issues, submit a request on [Diadrasis Support](https://www.diadrasis.gr/contact/).
 
-## Privacy Policy
+## EULA
 ARPOLIS-TOPOGRAPHY_NARRATIONS Copyright (C) 2020 DIADRASIS LADAS I & CO GP
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
